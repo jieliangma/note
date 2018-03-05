@@ -7,6 +7,10 @@ import base64
 import re
 import uuid
 import os
+import time
+
+
+"""需要安装 pyqrcode """
 
 
 class FreeShadowsocksQRCode(object):
@@ -69,6 +73,9 @@ class FreeShadowsocksQRCode(object):
 
     qrcode.eps(file_name, scale=8)
     return_code, _ = commands.getstatusoutput('open ' + file_name)
+
+    """休眠1秒，确保图片被打开"""
+    time.sleep(1)
 
     if return_code == 0:
       os.remove(file_name)
