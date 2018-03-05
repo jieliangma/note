@@ -16,5 +16,5 @@ free-shadowsocks				#执行 free-shadowsocks
 ## 更新 GFWList (MacOS Only)
 > Shadowsocks for OSX 2.6.3 has an issue of updating GFWList PAC, that returns error 404. The URL used during the update is hardcoded in the application and can not be changed easily.
 
-[安装 pip](https://pip.pypa.io/en/stable/installing/)
-[Update GFWList](https://github.com/alexzhangs/shadowsocks-gfwlist-macos)
+1. [安装 pip](https://pip.pypa.io/en/stable/installing/)
+2. [Update GFWList](https://github.com/alexzhangs/shadowsocks-gfwlist-macos)
