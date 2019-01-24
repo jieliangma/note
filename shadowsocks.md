@@ -1,7 +1,7 @@
 # ShadowSocks
 
 ## 安装主程序 ShadowSocks
-[查看支持的列表](https://github.com/search?utf8=%E2%9C%93&q=shadowsocks&type=) | [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)、[Android](https://github.com/shadowsocks/shadowsocks-android/releases)、[MacOS](https://github.com/shadowsocks/shadowsocks-iOS/releases)、[iOS](https://github.com/herzmut/shadowsocks-iOS)、[MacOS](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+[查看支持的列表](https://github.com/search?utf8=%E2%9C%93&q=shadowsocks&type=) | [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)、[Android](https://github.com/shadowsocks/shadowsocks-android/releases)、[MacOS](https://github.com/shadowsocks/shadowsocks-iOS/releases)、[iOS](https://github.com/herzmut/shadowsocks-iOS)、[MacOS (ShadowSocksX-NG)](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
 
 ## 免费账号：
 ### 安装 npm
